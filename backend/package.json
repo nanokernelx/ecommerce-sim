@@ -1,7 +1,7 @@
 {
     "name": "ecommerce-platform-backend",
     "version": "1.0.0",
-    "description": "Backend for Advanced E-commerce Platform",
+    "description": "Backend for E-commerce Platform",
     "main": "server.js",
     "scripts": {
       "start": "node server.js",
